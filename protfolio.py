@@ -15,7 +15,8 @@ Sri Sri Sanskar Kendra Varanasi District Coordinator
 Counciling Experience: 3 yrs+ 
 Singer, Coder, Guitarist, Poet, Lyricist, Sadhak, Observer, Seeker, Listener
 Ex St.Johnian, Ex SMSian, IGNOU
-BCA, MCA, MSc. CFT''')
+BCA, MCA, MSc. CFT
+Can Play Strings :  Guitar and ukulele''')
 c2.image("me.gif")
 
 t2.write(":red[**Microtek College of Management & Technology Varanasi & Jaunpur** : 9 months]")
