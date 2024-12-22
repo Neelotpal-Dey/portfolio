@@ -3,7 +3,7 @@ st.title("Neelotpal Dey")
 st.caption("The Art Of Living Faculty | Assistant Professor CS/IT")
 st.write("Varanasi, Uttar Pradesh, India")
 t1,t3,t2,t4,t5 = st.tabs(['About Me','Education', 'Experience', 'Certification',
-                       'Project | Research Word'])
+                       'Project | Research Work'])
 c1,c2 =t1.columns([6,2])
 c1.text('''Teaching Experience: 8 yrs+
 Industrial Trainer Experience: 4 yrs+
@@ -110,3 +110,13 @@ t3.divider()
 t3.write(":red[St. John's School Marhauli, Varanasi]")
 t3.text('''Intermediate PCM with CS : 2016 | 71% + A(SUPW)
         High School Science with CS and English : 2014 | 77% + A(SUPW)''')
+
+t5.write(":red[Unveiling: The Secrets of Secret]")
+t5.text('''Podcast Series · Apr 8, 2021
+Lost Old Secrets of Human Life, some wisdom from Vedas and Vedic Life''')
+t5.divider()
+t5.write(":red[Raavan: The Clandestine Leader]")
+t5.text('''SMS Varanasi Publication · Feb 16, 2020''')
+t5.divider()
+t5.write(":red[Sentimental Analysis: Machine Learning Understanding Human Feeling]")
+t5.text('''Research Paper on Sentimental Analysis: Machine Learning Understanding Human Feeling at the Nation Conference''')
