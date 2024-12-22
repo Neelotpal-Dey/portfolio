@@ -2,8 +2,8 @@ import streamlit  as st
 st.title("Neelotpal Dey")
 st.caption("The Art Of Living Faculty | Assistant Professor CS/IT")
 st.write("Varanasi, Uttar Pradesh, India")
-t1,t3,t2,t4,t5 = st.tabs(['About Me','Education', 'Experience', 'Certification',
-                       'Project | Research Work'])
+t1,t3,t2,t4,t5,t6 = st.tabs(['About Me','Education', 'Experience', 'Certification',
+                       'Project | Research Work','Awards'])
 c1,c2 =t1.columns([6,2])
 c1.text('''Teaching Experience: 8 yrs+
 Industrial Trainer Experience: 4 yrs+
