@@ -15,8 +15,7 @@ Sri Sri Sanskar Kendra Varanasi District Coordinator
 Counciling Experience: 3 yrs+ 
 Singer, Coder, Guitarist, Poet, Lyricist, Sadhak, Observer, Seeker, Listener
 Ex St.Johnian, Ex SMSian, IGNOU
-BCA, MCA, MSc. CFT
-Can Play Strings :  Guitar and ukulele''')
+BCA, MCA, MSc. CFT''')
 c2.image("me.gif")
 
 t2.write(":red[**Microtek College of Management & Technology Varanasi & Jaunpur** : 9 months]")
@@ -92,3 +91,22 @@ t2.write("Summer Internship : May 2019 - July 2019 (3 months)")
 t2.caption("Varanasi, Uttar Pradesh, India")
 t2.text('''Data Analytics and Machine Learning
 Reference ID: 19SDATVNS030''')
+
+t3.write(":red[Indira Gandhi National Open University]")
+t3.text('''Master of Science (Counselling and Family Therapy) (MSCCFT) : (July 2024 - Present)
+Master of Computer Applications - MCA: (July 2021 - December 2023) | 77%''')
+t3.divider()
+
+t3.write(":red[School of Management Sciences, Varanasi]")
+t3.text('''Bachelor of Computer Application : (2017 - 2020) | 69%''')
+t3.divider()
+
+t3.write(":red[Jetking Noida Learning Center]")
+t3.text('''JCHNE + cloud, Computer Hardware and Networking · (2016 - 2017) | A+''')
+t3.write(":red[Webtek Computer Education]")
+t3.text("Advance Diploma in Computer Application (ADCA) : (2008 - 2009) | 90%")
+t3.divider()
+
+t3.write(":red[St. John's School Marhauli, Varanasi]")
+t3.text('''Intermediate PCM with CS : 2016 | 71% + A(SUPW)
+        High School Science with CS and English : 2014 | 77% + A(SUPW)''')
