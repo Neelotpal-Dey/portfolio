@@ -103,6 +103,8 @@ t3.divider()
 
 t3.write(":red[Jetking Noida Learning Center]")
 t3.text('''JCHNE + cloud, Computer Hardware and Networking · (2016 - 2017) | A+''')
+t3.divider()
+
 t3.write(":red[Webtek Computer Education]")
 t3.text("Advance Diploma in Computer Application (ADCA) : (2008 - 2009) | 90%")
 t3.divider()
