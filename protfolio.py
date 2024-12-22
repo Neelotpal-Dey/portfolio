@@ -119,4 +119,5 @@ t5.write(":red[Raavan: The Clandestine Leader]")
 t5.text('''SMS Varanasi Publication · Feb 16, 2020''')
 t5.divider()
 t5.write(":red[Sentimental Analysis: Machine Learning Understanding Human Feeling]")
-t5.text('''Research Paper on Sentimental Analysis: Machine Learning Understanding Human Feeling at the Nation Conference''')
+t5.text('''School Of Management Sciences, Varanasi · Oct 19, 2019
+Research Paper on Sentimental Analysis: Machine Learning Understanding Human Feeling at the Nation Conference''')
