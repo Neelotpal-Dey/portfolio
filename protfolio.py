@@ -111,13 +111,16 @@ t3.write(":red[St. John's School Marhauli, Varanasi]")
 t3.text('''Intermediate PCM with CS : 2016 | 71% + A(SUPW)
         High School Science with CS and English : 2014 | 77% + A(SUPW)''')
 
+t5.subheader("Research Work")
 t5.write(":red[Unveiling: The Secrets of Secret]")
 t5.text('''Podcast Series · Apr 8, 2021
 Lost Old Secrets of Human Life, some wisdom from Vedas and Vedic Life''')
-t5.divider()
+
 t5.write(":red[Raavan: The Clandestine Leader]")
 t5.text('''SMS Varanasi Publication · Feb 16, 2020''')
-t5.divider()
+
 t5.write(":red[Sentimental Analysis: Machine Learning Understanding Human Feeling]")
 t5.text('''School Of Management Sciences, Varanasi · Oct 19, 2019
 Research Paper on Sentimental Analysis: Machine Learning Understanding Human Feeling at the Nation Conference''')
+t5.divider()
+t5.subheader("Projects")
